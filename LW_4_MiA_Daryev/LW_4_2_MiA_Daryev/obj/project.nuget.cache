@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "vnSPOLL657Y=",
+  "success": true,
+  "projectFilePath": "D:\\College\\MiA\\LW_4_2_MiA_Daryev\\LW_4_2_MiA_Daryev.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danii\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.9\\microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
+    "C:\\Users\\danii\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

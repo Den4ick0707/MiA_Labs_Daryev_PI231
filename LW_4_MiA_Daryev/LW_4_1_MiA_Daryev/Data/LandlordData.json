@@ -1,0 +1,27 @@
+[
+  {
+    "LandlordId": 1,
+    "LandlordName": "TechRent UA"
+  },
+  {
+    "LandlordId": 2,
+    "LandlordName": "GameZone Rentals"
+  },
+  {
+    "LandlordId": 3,
+    "LandlordName": "OfficeHub Leasing"
+  },
+  {
+    "LandlordId": 4,
+    "LandlordName": "NextGen Consoles"
+  },
+  {
+    "LandlordId": 5,
+    "LandlordName": "CyberDesk Solutions"
+  },
+  {
+    "LandlordId": 6,
+    "LandlordName": "Arena Gaming Rent"
+  }
+]
+

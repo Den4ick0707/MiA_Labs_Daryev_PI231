@@ -1,0 +1,72 @@
+[
+  {
+    "ContractId": 1,
+    "UserId": 1,
+    "DeviceId": 2,
+    "StartDate": "2025-10-01T10:00:00",
+    "EndDate": "2025-10-05T18:00:00"
+  },
+  {
+    "ContractId": 2,
+    "UserId": 2,
+    "DeviceId": 1,
+    "StartDate": "2025-10-03T12:00:00",
+    "EndDate": "2025-10-07T20:00:00"
+  },
+  {
+    "ContractId": 3,
+    "UserId": 3,
+    "DeviceId": 3,
+    "StartDate": "2025-10-05T09:00:00",
+    "EndDate": "2025-10-10T18:00:00"
+  },
+  {
+    "ContractId": 4,
+    "UserId": 1,
+    "DeviceId": 4,
+    "StartDate": "2025-10-06T14:00:00",
+    "EndDate": "2025-10-12T20:00:00"
+  },
+  {
+    "ContractId": 5,
+    "UserId": 4,
+    "DeviceId": 5,
+    "StartDate": "2025-10-08T08:00:00",
+    "EndDate": "2025-10-15T18:00:00"
+  },
+  {
+    "ContractId": 6,
+    "UserId": 5,
+    "DeviceId": 6,
+    "StartDate": "2025-10-10T10:00:00",
+    "EndDate": "2025-10-16T19:00:00"
+  },
+  {
+    "ContractId": 7,
+    "UserId": 2,
+    "DeviceId": 7,
+    "StartDate": "2025-10-11T12:00:00",
+    "EndDate": "2025-10-18T18:00:00"
+  },
+  {
+    "ContractId": 8,
+    "UserId": 3,
+    "DeviceId": 8,
+    "StartDate": "2025-10-12T09:00:00",
+    "EndDate": "2025-10-19T17:00:00"
+  },
+  {
+    "ContractId": 9,
+    "UserId": 6,
+    "DeviceId": 9,
+    "StartDate": "2025-10-14T11:00:00",
+    "EndDate": "2025-10-20T20:00:00"
+  },
+  {
+    "ContractId": 10,
+    "UserId": 5,
+    "DeviceId": 10,
+    "StartDate": "2025-10-15T08:00:00",
+    "EndDate": "2025-10-22T18:00:00"
+  }
+]

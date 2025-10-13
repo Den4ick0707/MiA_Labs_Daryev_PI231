@@ -1,0 +1,63 @@
+  [
+    {
+      "DeviceId": 1,
+      "DeviceName": "Gaming PC Alpha",
+      "DeviceType": "Desktop",
+      "LandlordId": 1
+    },
+    {
+      "DeviceId": 2,
+      "DeviceName": "PlayStation 5 Standard",
+      "DeviceType": "Console",
+      "LandlordId": 1
+    },
+    {
+      "DeviceId": 3,
+      "DeviceName": "Xbox Series X",
+      "DeviceType": "Console",
+      "LandlordId": 2
+    },
+    {
+      "DeviceId": 4,
+      "DeviceName": "Gaming PC Titan",
+      "DeviceType": "Desktop",
+      "LandlordId": 2
+    },
+    {
+      "DeviceId": 5,
+      "DeviceName": "Nintendo Switch OLED",
+      "DeviceType": "Console",
+      "LandlordId": 3
+    },
+    {
+      "DeviceId": 6,
+      "DeviceName": "Gaming PC Phantom",
+      "DeviceType": "Desktop",
+      "LandlordId": 4
+    },
+    {
+      "DeviceId": 7,
+      "DeviceName": "PlayStation 4 Pro",
+      "DeviceType": "Console",
+      "LandlordId": 4
+    },
+    {
+      "DeviceId": 8,
+      "DeviceName": "Gaming PC Predator",
+      "DeviceType": "Desktop",
+      "LandlordId": 5
+    },
+    {
+      "DeviceId": 9,
+      "DeviceName": "Xbox One X",
+      "DeviceType": "Console",
+      "LandlordId": 6
+    },
+    {
+      "DeviceId": 10,
+      "DeviceName": "Gaming PC Shadow",
+      "DeviceType": "Desktop",
+      "LandlordId": 6
+    }
+  ]
+

@@ -1,0 +1,14 @@
+D:\College\MiA\LW_3_MiA_Daryev\bin\Debug\net9.0\LW_3_MiA_Daryev.exe
+D:\College\MiA\LW_3_MiA_Daryev\bin\Debug\net9.0\LW_3_MiA_Daryev.deps.json
+D:\College\MiA\LW_3_MiA_Daryev\bin\Debug\net9.0\LW_3_MiA_Daryev.runtimeconfig.json
+D:\College\MiA\LW_3_MiA_Daryev\bin\Debug\net9.0\LW_3_MiA_Daryev.dll
+D:\College\MiA\LW_3_MiA_Daryev\bin\Debug\net9.0\LW_3_MiA_Daryev.pdb
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\LW_3_MiA_Daryev.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\LW_3_MiA_Daryev.AssemblyInfoInputs.cache
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\LW_3_MiA_Daryev.AssemblyInfo.cs
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\LW_3_MiA_Daryev.csproj.CoreCompileInputs.cache
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\LW_3_MiA_Daryev.dll
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\refint\LW_3_MiA_Daryev.dll
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\LW_3_MiA_Daryev.pdb
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\LW_3_MiA_Daryev.genruntimeconfig.cache
+D:\College\MiA\LW_3_MiA_Daryev\obj\Debug\net9.0\ref\LW_3_MiA_Daryev.dll

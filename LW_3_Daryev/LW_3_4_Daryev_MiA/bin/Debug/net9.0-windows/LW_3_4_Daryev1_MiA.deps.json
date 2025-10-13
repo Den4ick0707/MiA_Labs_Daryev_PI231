@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "LW_3_4_Daryev1_MiA/1.0.0": {
+        "runtime": {
+          "LW_3_4_Daryev1_MiA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LW_3_4_Daryev1_MiA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
