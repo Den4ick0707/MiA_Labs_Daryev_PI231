@@ -1,0 +1,6 @@
+@LW_4_2_Daryev_MiA_HostAddress = http://localhost:5081
+
+GET {{LW_4_2_Daryev_MiA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

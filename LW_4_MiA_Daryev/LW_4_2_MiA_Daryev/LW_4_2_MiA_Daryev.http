@@ -1,6 +1,0 @@
-@LW_4_2_MiA_Daryev_HostAddress = http://localhost:5029
-
-GET {{LW_4_2_MiA_Daryev_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

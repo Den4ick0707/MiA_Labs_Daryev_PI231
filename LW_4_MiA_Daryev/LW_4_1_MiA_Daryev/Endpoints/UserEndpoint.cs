@@ -10,7 +10,6 @@ namespace LW_4_1_MiA_Daryev.Endpoints
 
         public static void MapUserEndpoints(this WebApplication app)
         {
-            Console.WriteLine(jsonPath);
 
             //------------------------- GET /users — Отримати всі користувачі --------------------------
             app.MapGet("/users", (int? id, string? name, string? sortBy, string? order) =>
@@ -41,11 +40,10 @@ namespace LW_4_1_MiA_Daryev.Endpoints
                     };
                 }
 
-
                 return Results.Ok(userItems);
             }).WithSummary("Отримати користувачів із фільтрацією та сортуванням")
                 .WithDescription("Підтримує параметри: id, name, sortBy (id/name), order (asc/desc).")
-                .WithTags("Users"); ;
+                .WithTags("Users"); 
 
             //-------------------- GET /users/{id} — Отримати конкретного користувача --------------------
             app.MapGet("/users/{id:int}", (int id, string? name) =>
@@ -60,6 +58,14 @@ namespace LW_4_1_MiA_Daryev.Endpoints
             {
                 var userItems = JsonReaderAndWritter<UserClass>.ReadJsonFile(jsonPath);
 
+                if (newUser.UserName.Length<3)
+                    Results.BadRequest("UserName must be more than 3 characters");
+                if (newUser.UserName.Length > 100)
+                    Results.BadRequest("UserName must be less than 100 characters");
+                if(string.IsNullOrWhiteSpace(newUser.UserName))
+                    Results.BadRequest("UserName cannot be empty or whitespace");
+                if (newUser is null) return Results.BadRequest();
+               
                 // Автоінкремент UserId
                 newUser.UserId = userItems.Count > 0 ? userItems.Max(u => u.UserId) + 1 : 1;
 

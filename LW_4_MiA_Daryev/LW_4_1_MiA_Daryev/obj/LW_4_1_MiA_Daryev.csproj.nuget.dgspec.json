@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\College\\MiA\\LW_4_1_MiA_Daryev\\LW_4_1_MiA_Daryev.csproj": {}
+    "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_1_MiA_Daryev\\LW_4_1_MiA_Daryev.csproj": {}
   },
   "projects": {
-    "D:\\College\\MiA\\LW_4_1_MiA_Daryev\\LW_4_1_MiA_Daryev.csproj": {
+    "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_1_MiA_Daryev\\LW_4_1_MiA_Daryev.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\College\\MiA\\LW_4_1_MiA_Daryev\\LW_4_1_MiA_Daryev.csproj",
+        "projectUniqueName": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_1_MiA_Daryev\\LW_4_1_MiA_Daryev.csproj",
         "projectName": "LW_4_1_MiA_Daryev",
-        "projectPath": "D:\\College\\MiA\\LW_4_1_MiA_Daryev\\LW_4_1_MiA_Daryev.csproj",
+        "projectPath": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_1_MiA_Daryev\\LW_4_1_MiA_Daryev.csproj",
         "packagesPath": "C:\\Users\\danii\\.nuget\\packages\\",
-        "outputPath": "D:\\College\\MiA\\LW_4_1_MiA_Daryev\\obj\\",
+        "outputPath": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_1_MiA_Daryev\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

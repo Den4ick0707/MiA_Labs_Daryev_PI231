@@ -1,0 +1,44 @@
+[
+  {
+    "Id": 1,
+    "Name": "Dell Precision 5570",
+    "Type": "PersonalComputer",
+    "LandlordID": 301
+  },
+  {
+    "Id": 2,
+    "Name": "PlayStation 5",
+    "Type": "Console",
+    "LandlordID": 302
+  },
+  {
+    "Id": 3,
+    "Name": "Nintendo Switch OLED",
+    "Type": "PortativeConsole",
+    "LandlordID": 303
+  },
+  {
+    "Id": 4,
+    "Name": "MSI Raider GE78HX",
+    "Type": "PersonalComputer",
+    "LandlordID": 304
+  },
+  {
+    "Id": 5,
+    "Name": "Xbox Series X",
+    "Type": "Console",
+    "LandlordID": 305
+  },
+  {
+    "Id": 6,
+    "Name": "Steam Deck OLED",
+    "Type": "PortativeConsole",
+    "LandlordID": 306
+  },
+  {
+    "Id": 7,
+    "Name": "Apple iMac Pro",
+    "Type": "PersonalComputer",
+    "LandlordID": 307
+  }
+]

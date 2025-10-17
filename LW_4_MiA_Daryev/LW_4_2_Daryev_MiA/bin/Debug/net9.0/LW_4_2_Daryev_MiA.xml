@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LW_4_2_Daryev_MiA</name>
+    </assembly>
+    <members>
+        <member name="M:LW_4_2_Daryev_MiA.Controllers.DeviceController.GetDevices">
+            <summary>Get all device</summary>
+            <remarks>json format</remarks>
+            <returns>All devices</returns>
+            <response code="200">Sucsesfull get device list</response>
+            <response code="404">Device list is empty or not found</response>
+        </member>
+        <member name="M:LW_4_2_Daryev_MiA.Controllers.DeviceController.AddDevice(LW_4_2_Daryev_MiA.Models.Device)">
+            <summary>Post device</summary>
+            <remarks>Enum: </remarks>
+            <remarks>PersonalComputer, 
+            Console, 
+            PortativeConsole </remarks>
+        </member>
+        <member name="M:LW_4_2_Daryev_MiA.Controllers.UserController.GetUsers">
+            <summary>Get all users</summary>
+            <remarks>json format</remarks>
+            <returns>All users</returns>
+            <response code="200">Sucsesfull get user list</response>
+            <response code="404">User list is empty or not found</response>
+        </member>
+    </members>
+</doc>
