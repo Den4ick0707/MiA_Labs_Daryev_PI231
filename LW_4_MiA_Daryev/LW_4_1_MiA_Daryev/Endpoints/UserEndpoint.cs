@@ -11,7 +11,7 @@ namespace LW_4_1_MiA_Daryev.Endpoints
         public static void MapUserEndpoints(this WebApplication app)
         {
 
-            //------------------------- GET /users — Отримати всі користувачі --------------------------
+            //------------------------- GET /users — Get users --------------------------
             app.MapGet("/users", (int? id, string? name, string? sortBy, string? order) =>
             {
                 var userItems = JsonReaderAndWritter<UserClass>.ReadJsonFile(jsonPath);
@@ -45,7 +45,7 @@ namespace LW_4_1_MiA_Daryev.Endpoints
                 .WithDescription("Підтримує параметри: id, name, sortBy (id/name), order (asc/desc).")
                 .WithTags("Users"); 
 
-            //-------------------- GET /users/{id} — Отримати конкретного користувача --------------------
+            //-------------------- GET /users/{id} — Get user by id --------------------
             app.MapGet("/users/{id:int}", (int id, string? name) =>
             {
                 var userItems = JsonReaderAndWritter<UserClass>.ReadJsonFile(jsonPath);
@@ -53,7 +53,7 @@ namespace LW_4_1_MiA_Daryev.Endpoints
                 return user is not null ? Results.Ok(user) : Results.NotFound();
             });
 
-            //--------------------------- POST /users — Додати нового користувача -------------------------
+            //--------------------------- POST /users — Add new user -------------------------
             app.MapPost("/users", (UserClass newUser) =>
             {
                 var userItems = JsonReaderAndWritter<UserClass>.ReadJsonFile(jsonPath);
@@ -66,7 +66,7 @@ namespace LW_4_1_MiA_Daryev.Endpoints
                     Results.BadRequest("UserName cannot be empty or whitespace");
                 if (newUser is null) return Results.BadRequest();
                
-                // Автоінкремент UserId
+                // Autoinkrement UserId
                 newUser.UserId = userItems.Count > 0 ? userItems.Max(u => u.UserId) + 1 : 1;
 
                 if (newUser.UserName.Length <= 3 || newUser.UserName.Length > 100)
@@ -76,7 +76,7 @@ namespace LW_4_1_MiA_Daryev.Endpoints
                 return Results.Created($"/users/{newUser.UserId}", newUser);
             });
 
-            //--------------------------- PUT /users/{id} — Оновити користувача --------------------------
+            //--------------------------- PUT /users/{id} — Update user --------------------------
             app.MapPut("/users/{id:int}", (int id, UserClass updatedUser) =>
             {
                 var userItems = JsonReaderAndWritter<UserClass>.ReadJsonFile(jsonPath);
@@ -89,7 +89,7 @@ namespace LW_4_1_MiA_Daryev.Endpoints
                 return Results.Ok(user);
             });
 
-            //---------------------------- DELETE /users/{id} — Видалити користувача --------------------------
+            //---------------------------- DELETE /users/{id} — Delete user --------------------------
             app.MapDelete("/users/{id:int}", (int id) =>
             {
                 var userItems = JsonReaderAndWritter<UserClass>.ReadJsonFile(jsonPath);

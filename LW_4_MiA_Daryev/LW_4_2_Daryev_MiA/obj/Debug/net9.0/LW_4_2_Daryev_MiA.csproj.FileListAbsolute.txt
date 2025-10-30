@@ -47,3 +47,4 @@ D:\College\MiA\LW_4_MiA_Daryev\LW_4_2_Daryev_MiA\bin\Debug\net9.0\LW_4_2_Daryev_
 D:\College\MiA\LW_4_MiA_Daryev\LW_4_2_Daryev_MiA\obj\Debug\net9.0\LW_4_2_Daryev_MiA.xml
 D:\College\MiA\LW_4_MiA_Daryev\LW_4_2_Daryev_MiA\bin\Debug\net9.0\DataSource\DeviceData.json
 D:\College\MiA\LW_4_MiA_Daryev\LW_4_2_Daryev_MiA\bin\Debug\net9.0\DataSource\LandlordData.json
+D:\College\MiA\LW_4_MiA_Daryev\LW_4_2_Daryev_MiA\bin\Debug\net9.0\DataSource\ContractData.json

@@ -1,5 +1,94 @@
 [
   {
+    "ContainingType": "LW_4_2_Daryev_MiA.Controllers.ContractController",
+    "Method": "GetContracts",
+    "RelativePath": "api/Contracts",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LW_4_2_Daryev_MiA.Controllers.ContractController",
+    "Method": "AddContract",
+    "RelativePath": "api/Contracts",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "newContract",
+        "Type": "LW_4_2_Daryev_MiA.Models.ContractClass",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "LW_4_2_Daryev_MiA.Models.ContractClass",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "LW_4_2_Daryev_MiA.Controllers.ContractController",
+    "Method": "UpdateContract",
+    "RelativePath": "api/Contracts/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateContract",
+        "Type": "LW_4_2_Daryev_MiA.Models.ContractClass",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LW_4_2_Daryev_MiA.Controllers.ContractController",
+    "Method": "DeleteContract",
+    "RelativePath": "api/Contracts/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LW_4_2_Daryev_MiA.Controllers.ContractController",
+    "Method": "GetContractByID",
+    "RelativePath": "api/Contracts/{Id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "LW_4_2_Daryev_MiA.Controllers.DeviceController",
     "Method": "GetDevices",
     "RelativePath": "api/Devices",
@@ -196,7 +285,7 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "user",
+        "Name": "newUser",
         "Type": "LW_4_2_Daryev_MiA.Models.UserClass",
         "IsRequired": true
       }

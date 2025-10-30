@@ -3,48 +3,32 @@
   "WorkspaceRootPath": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\obj\\Debug\\net9.0\\EndpointInfo\\LW_4_2_Daryev_MiA.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net9.0\\EndpointInfo\\LW_4_2_Daryev_MiA.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:controllers\\contractcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\datasource\\landlorddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:datasource\\landlorddata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\datasource\\contractdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:datasource\\contractdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\datasource\\userdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:datasource\\userdata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\models\\contractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:models\\contractclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\datasource\\devicedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:datasource\\devicedata.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\models\\landlordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:models\\landlordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\jsonreaderandwritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:jsonreaderandwritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\models\\landlordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:models\\landlordclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:models\\userclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:validators\\uservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\validators\\devicevalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,8 +43,24 @@
       "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:controllers\\devicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:controllers\\landlordcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\validators\\contractvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:validators\\contractvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|d:\\college\\mia\\lw_4_mia_daryev\\lw_4_2_daryev_mia\\jsonreaderandwritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BA0D9BD-F359-4745-B07B-620B125561E4}|LW_4_2_Daryev_MiA.csproj|solutionrelative:jsonreaderandwritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -78,141 +78,140 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LW_4_2_Daryev_MiA.json",
-              "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\obj\\Debug\\net9.0\\EndpointInfo\\LW_4_2_Daryev_MiA.json",
-              "RelativeDocumentMoniker": "obj\\Debug\\net9.0\\EndpointInfo\\LW_4_2_Daryev_MiA.json",
-              "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\obj\\Debug\\net9.0\\EndpointInfo\\LW_4_2_Daryev_MiA.json",
-              "RelativeToolTip": "obj\\Debug\\net9.0\\EndpointInfo\\LW_4_2_Daryev_MiA.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "ContractData.json",
+              "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\DataSource\\ContractData.json",
+              "RelativeDocumentMoniker": "DataSource\\ContractData.json",
+              "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\DataSource\\ContractData.json",
+              "RelativeToolTip": "DataSource\\ContractData.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-17T07:11:54.359Z",
+              "WhenOpened": "2025-10-20T07:23:42.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContractController.cs",
+              "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Controllers\\ContractController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContractController.cs",
+              "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Controllers\\ContractController.cs",
+              "RelativeToolTip": "Controllers\\ContractController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T07:01:46.91Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ContractValidator.cs",
+              "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Validators\\ContractValidator.cs",
+              "RelativeDocumentMoniker": "Validators\\ContractValidator.cs",
+              "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Validators\\ContractValidator.cs",
+              "RelativeToolTip": "Validators\\ContractValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:46:06.602Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "UserData.json",
-              "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\DataSource\\UserData.json",
-              "RelativeDocumentMoniker": "DataSource\\UserData.json",
-              "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\DataSource\\UserData.json",
-              "RelativeToolTip": "DataSource\\UserData.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-17T07:09:11.988Z"
+              "Title": "ContractClass.cs",
+              "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Models\\ContractClass.cs",
+              "RelativeDocumentMoniker": "Models\\ContractClass.cs",
+              "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Models\\ContractClass.cs",
+              "RelativeToolTip": "Models\\ContractClass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-20T06:43:50.91Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LandlordData.json",
-              "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\DataSource\\LandlordData.json",
-              "RelativeDocumentMoniker": "DataSource\\LandlordData.json",
-              "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\DataSource\\LandlordData.json",
-              "RelativeToolTip": "DataSource\\LandlordData.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-17T07:09:11.154Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "DeviceData.json",
-              "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\DataSource\\DeviceData.json",
-              "RelativeDocumentMoniker": "DataSource\\DeviceData.json",
-              "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\DataSource\\DeviceData.json",
-              "RelativeToolTip": "DataSource\\DeviceData.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-10-17T07:04:41.062Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "LandlordController.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Controllers\\LandlordController.cs",
               "RelativeDocumentMoniker": "Controllers\\LandlordController.cs",
               "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Controllers\\LandlordController.cs",
               "RelativeToolTip": "Controllers\\LandlordController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T01:13:22.99Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "DeviceController.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Controllers\\DeviceController.cs",
               "RelativeDocumentMoniker": "Controllers\\DeviceController.cs",
               "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Controllers\\DeviceController.cs",
               "RelativeToolTip": "Controllers\\DeviceController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T00:32:05.04Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
               "Title": "UserController.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Controllers\\UserController.cs",
               "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Controllers\\UserController.cs",
               "RelativeToolTip": "Controllers\\UserController.cs",
-              "ViewState": "AgIAACYAAAAAAAAAAAAwwBQAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T07:24:58.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 8,
               "Title": "LandlordValidator.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Validators\\LandlordValidator.cs",
               "RelativeDocumentMoniker": "Validators\\LandlordValidator.cs",
               "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Validators\\LandlordValidator.cs",
               "RelativeToolTip": "Validators\\LandlordValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T01:07:47.222Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 7,
               "Title": "DeviceValidator.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Validators\\DeviceValidator.cs",
               "RelativeDocumentMoniker": "Validators\\DeviceValidator.cs",
               "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Validators\\DeviceValidator.cs",
               "RelativeToolTip": "Validators\\DeviceValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T00:57:54.282Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserValidator.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Validators\\UserValidator.cs",
               "RelativeDocumentMoniker": "Validators\\UserValidator.cs",
               "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Validators\\UserValidator.cs",
               "RelativeToolTip": "Validators\\UserValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T07:20:43.033Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "LandlordClass.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Models\\LandlordClass.cs",
               "RelativeDocumentMoniker": "Models\\LandlordClass.cs",
               "ToolTip": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Models\\LandlordClass.cs",
               "RelativeToolTip": "Models\\LandlordClass.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-17T01:06:22.912Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "Device.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Models\\Device.cs",
               "RelativeDocumentMoniker": "Models\\Device.cs",
@@ -224,7 +223,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 3,
               "Title": "UserClass.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Models\\UserClass.cs",
               "RelativeDocumentMoniker": "Models\\UserClass.cs",
@@ -236,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "JsonReaderAndWritter.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\JsonReaderAndWritter.cs",
               "RelativeDocumentMoniker": "JsonReaderAndWritter.cs",
@@ -248,7 +247,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\College\\MiA\\LW_4_MiA_Daryev\\LW_4_2_Daryev_MiA\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",

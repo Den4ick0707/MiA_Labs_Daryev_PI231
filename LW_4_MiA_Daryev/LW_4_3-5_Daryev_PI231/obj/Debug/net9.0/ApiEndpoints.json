@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "LW_4_3_5_Daryev_PI231.Controllers.GamingAssetsController",
+    "Method": "GetAll",
+    "RelativePath": "api/GamingAssets",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LW_4_3_5_Daryev_PI231.Controllers.GamingAssetsController",
+    "Method": "Create",
+    "RelativePath": "api/GamingAssets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createDto",
+        "Type": "LW_4_3_5_Daryev_PI231.DTOs.CreateAssetDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LW_4_3_5_Daryev_PI231.Controllers.GamingAssetsController",
+    "Method": "GetById",
+    "RelativePath": "api/GamingAssets/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LW_4_3_5_Daryev_PI231.Controllers.GamingAssetsController",
+    "Method": "Update",
+    "RelativePath": "api/GamingAssets/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "updateDto",
+        "Type": "LW_4_3_5_Daryev_PI231.DTOs.UpdateAssetDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "LW_4_3_5_Daryev_PI231.Controllers.GamingAssetsController",
+    "Method": "Delete",
+    "RelativePath": "api/GamingAssets/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

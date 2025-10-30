@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using LW_4_2_Daryev_MiA;
+﻿using Microsoft.AspNetCore.Mvc;
 using LW_4_2_Daryev_MiA.Models;
 
 namespace LW_4_2_Daryev_MiA.Controllers
@@ -27,14 +25,14 @@ namespace LW_4_2_Daryev_MiA.Controllers
             return user == null ? NotFound() : Ok(user);
         }
         [HttpPost]
-        public ActionResult<UserClass> AddUser(UserClass user)
+        public ActionResult<UserClass> AddUser(UserClass newUser)
         {
             var users = JsonReaderAndWriter<UserClass>.ReadJsonFile(DataPath);
-            if (users.Any(u => u.Id == user.Id))
-                return BadRequest($"User with ID {user.Id} already exists.");
-            users.Add(user);
+            if (users.Any(u => u.Id == newUser.Id))
+                return BadRequest($"User with ID {newUser.Id} already exists.");
+            users.Add(newUser);
             JsonReaderAndWriter<UserClass>.WriteJsonFile(DataPath, users);
-            return CreatedAtAction(nameof(GetByID), new { id = user.Id }, user);
+            return CreatedAtAction(nameof(GetByID), new { id = newUser.Id }, newUser);
         }
         [HttpPut("{id}")]
         public IActionResult UpdateUser(int id, UserClass updatedUser)

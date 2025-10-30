@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
-using LW_4_2_Daryev_MiA;
+﻿using Microsoft.AspNetCore.Mvc;
 using LW_4_2_Daryev_MiA.Models;
 
 namespace LW_4_2_Daryev_MiA.Controllers
